@@ -9,7 +9,6 @@ contract FlightSuretyData {
     /*                                       DATA VARIABLES                                     */
     /********************************************************************************************/
    
-   // let owner='0xE8756dc0ba6192b16566CcBA084089F5653D2419';
     address private contractOwner;                                      // Account used to deploy contract
     bool private operational = true;     
     uint8 counter=1;
